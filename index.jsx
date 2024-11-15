@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import Toggle from "./components/Toggle/index"
 import { BsStar, BsStarFill } from "react-icons/bs"
-import Menu from './components/Menu/index.js'
+import Menu from './components/Menu/index.jsx'
 
 function App() {
   /**
